@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='YekongLib',
-    version='1.1.0',
+    version='1.1.1',
     author='YELANDAOKONG',
     author_email='yelandaokong@yldk.xyz',
     description='A Python library',
